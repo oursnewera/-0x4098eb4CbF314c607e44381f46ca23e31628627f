@@ -1,0 +1,13 @@
+{
+  "name": "Ours New Era",
+  "symbol": "ONE",
+  "website": "https://www.oursnewera.com",
+  "description": "Ours New Era (ONE) — Digital Asset ONE For All. BSC token for community and payments.",
+  "explorer": "https://bscscan.com/token/0x4098eb4CbF314c607e44381f46ca23e31628627f",
+  "type": "BEP20",
+  "status": "active",
+  "social": {
+    "twitter": "https://twitter.com/oursnewera",
+    "telegram": "https://t.me/oursnewera"
+  }
+}
